@@ -28,4 +28,5 @@
 *.out
 *.app
 
-.gitignore
+{"status":"fail","message":"Your version of Instagram is out of date. Please upgrade your app in the Play Store to log in to Instagram."}
+
